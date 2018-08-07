@@ -6,7 +6,7 @@
 ### Implementation
 
   - generate new rails application with SQLite
-  - using [ActiveRecord::Store](https://api.rubyonrails.org/classes/ActiveRecord/Store.html) module to store hashes in a single column
+  - using [ActiveRecord::Store](https://api.rubyonrails.org/classes/ActiveRecord/Store.html) module to store hashes in a single column (here-> https://github.com/DaniilLeksin/CA/blob/master/app/models/application_record.rb#L44)
   - tests are not required
 
 
